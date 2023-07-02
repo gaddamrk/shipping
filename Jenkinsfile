@@ -8,5 +8,5 @@ ci()
 
 
 
-env.component = "shipping"
+
 
