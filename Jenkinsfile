@@ -8,6 +8,5 @@ ci()
 
 
 
+env.component = "shipping"
 
-
-//extr
